@@ -1,0 +1,2 @@
+# pr-tica
+Primeiro repositório
