@@ -1,2 +1,1 @@
-# pr-tica
-Primeiro repositório
+Qualquer coisa
